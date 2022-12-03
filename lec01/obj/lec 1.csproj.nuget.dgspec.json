@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lil\\Desktop\\Test 2\\с#\\lection&practic\\lection\\lec 1\\lec 1.csproj": {}
+    "C:\\Users\\lil\\Desktop\\Test 2\\с#\\lection&practic\\lection\\lec01\\lec 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lil\\Desktop\\Test 2\\с#\\lection&practic\\lection\\lec 1\\lec 1.csproj": {
+    "C:\\Users\\lil\\Desktop\\Test 2\\с#\\lection&practic\\lection\\lec01\\lec 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lil\\Desktop\\Test 2\\с#\\lection&practic\\lection\\lec 1\\lec 1.csproj",
+        "projectUniqueName": "C:\\Users\\lil\\Desktop\\Test 2\\с#\\lection&practic\\lection\\lec01\\lec 1.csproj",
         "projectName": "lec 1",
-        "projectPath": "C:\\Users\\lil\\Desktop\\Test 2\\с#\\lection&practic\\lection\\lec 1\\lec 1.csproj",
+        "projectPath": "C:\\Users\\lil\\Desktop\\Test 2\\с#\\lection&practic\\lection\\lec01\\lec 1.csproj",
         "packagesPath": "C:\\Users\\lil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lil\\Desktop\\Test 2\\с#\\lection&practic\\lection\\lec 1\\obj\\",
+        "outputPath": "C:\\Users\\lil\\Desktop\\Test 2\\с#\\lection&practic\\lection\\lec01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lil\\AppData\\Roaming\\NuGet\\NuGet.Config"

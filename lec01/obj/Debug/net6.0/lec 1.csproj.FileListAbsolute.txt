@@ -13,3 +13,18 @@ C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec 1\obj\Debug\net6.0\r
 C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec 1\obj\Debug\net6.0\lec 1.pdb
 C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec 1\obj\Debug\net6.0\lec 1.genruntimeconfig.cache
 C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec 1\obj\Debug\net6.0\ref\lec 1.dll
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\bin\Debug\net6.0\lec 1.exe
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\bin\Debug\net6.0\lec 1.deps.json
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\bin\Debug\net6.0\lec 1.runtimeconfig.json
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\bin\Debug\net6.0\lec 1.dll
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\bin\Debug\net6.0\lec 1.pdb
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\obj\Debug\net6.0\lec 1.csproj.AssemblyReference.cache
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\obj\Debug\net6.0\lec 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\obj\Debug\net6.0\lec 1.AssemblyInfoInputs.cache
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\obj\Debug\net6.0\lec 1.AssemblyInfo.cs
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\obj\Debug\net6.0\lec 1.csproj.CoreCompileInputs.cache
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\obj\Debug\net6.0\lec 1.dll
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\obj\Debug\net6.0\refint\lec 1.dll
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\obj\Debug\net6.0\lec 1.pdb
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\obj\Debug\net6.0\lec 1.genruntimeconfig.cache
+C:\Users\lil\Desktop\Test 2\с#\lection&practic\lection\lec01\obj\Debug\net6.0\ref\lec 1.dll
